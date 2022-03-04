@@ -3,7 +3,7 @@ About hover
 
 Home: https://phurwicz.github.io/hover
 
-Package license: MIT AND Apache-2.0
+Package license: MIT
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/hover-feedstock/blob/master/LICENSE.txt)
 
