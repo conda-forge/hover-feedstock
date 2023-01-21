@@ -1,5 +1,5 @@
 {% set name = "hover" %}
-{% set version = "0.7.0" %}
+{% set version = "0.8.0" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 1aae054f90ec869e898affa2f06bed08c1b00531d21f02f1faeafefc19ff6d98
+  sha256: 6d62b7b9bd20c0cef1893e6d6374dc2d2f180c500c9dc8e5c9f295c06bd43a48
 
 build:
   number: 0
