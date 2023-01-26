@@ -31,6 +31,7 @@ requirements:
     - rich >=11.0.0
     - deprecated >=1.1.0
     - umap-learn >=0.3.10
+    - flexmod >=0.1.1
 
 test:
   imports:
